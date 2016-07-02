@@ -1,0 +1,4 @@
+Matlab/ci_final.m	Train neural network on small and MNIST data set. If trains MNIST, it will be very slow. Especially apply grid search method.
+Theano/logistic_sgd.py	Train Logistic Regression on MNIST. It takes several minutes.
+Theano/MLP.py		Train neural network on MNIST. It takes about 20 minutes. The time depends on the n_epochs variable.
+
